@@ -1,3 +1,0 @@
-model_name,total_params,train_epoch_time,test_epoch_time
-MuSTRec,33566528,29.9042,8.0251
-MuSTRec,34121408,27.9868,7.3570
